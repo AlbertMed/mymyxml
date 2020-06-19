@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 buenos dias uno
+=======
+buenos dias dos
+>>>>>>> Stashed changes
